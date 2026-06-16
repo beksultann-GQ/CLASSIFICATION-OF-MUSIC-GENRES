@@ -1,0 +1,11 @@
+kagglehub
+pandas
+numpy
+matplotlib
+seaborn
+librosa
+scikit-learn
+torch
+torchvision
+ipython
+jupyter
